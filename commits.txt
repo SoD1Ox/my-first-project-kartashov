@@ -1,0 +1,4 @@
+a567ecc Update README.md
+8cc8656 Update README.md
+f4ef941 Создана базовая структура проекта: добавлены main.py, папки src и docs
+efa1fc7 Initial commit
